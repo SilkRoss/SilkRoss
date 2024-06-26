@@ -34,15 +34,15 @@
   
 
 - TypeScript
-  
-
-- Node.js
 
 
 - React
 
 
-- Angular
+
+
+
+
 
 
 

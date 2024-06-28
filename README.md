@@ -1,3 +1,6 @@
+
+
+
 [<img src="https://www.codewars.com/users/SilkRoss/badges/micro" height="28px">](https://www.codewars.com/users/SilkRoss)
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
@@ -10,64 +13,32 @@
 
 <br/>  
 
-<div align="center"> 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)]([https://katherineoelsner.com/](https://effulgent-squirrel-ca1690.netlify.app))
-</div>  
+<div align="center">
+  <a href="https://effulgent-squirrel-ca1690.netlify.app">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red" alt="Portfolio">
+  </a>
+</div>
+
+<br/>  
 
 ## Language (communication)
 
-
 - English
-  
-
 - Russian
-  
-
-
-
-
-
 
 <br/>  
 
 ## Main interests / skills
 
-
 - JavaScript
-  
-
 - TypeScript
-
-
 - React
-
-
-
-
-
-
-
-
-
 
 <br/>  
 
 ## Emotional Intelligence skills
 
-
 - Self Awareness
-  
-
 - Self Management
-  
-
 - Social Awareness
-
-
-- Relationship Management
-
-
-
-
-
-<br/>  
+```

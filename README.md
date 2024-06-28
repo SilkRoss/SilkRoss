@@ -10,9 +10,9 @@
 
 <br/>  
 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-
+<div align="center"> 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)]([https://katherineoelsner.com/](https://effulgent-squirrel-ca1690.netlify.app))
+</div>  
 
 ## Language (communication)
 

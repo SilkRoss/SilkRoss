@@ -41,4 +41,3 @@
 - Self Awareness
 - Self Management
 - Social Awareness
-```

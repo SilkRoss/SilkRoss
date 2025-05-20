@@ -1,7 +1,7 @@
 
 
 
-[<img src="https://www.codewars.com/users/SilkRoss/badges/micro" height="28px">](https://www.codewars.com/users/SilkRoss)
+
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  

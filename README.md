@@ -12,11 +12,7 @@
 
 <br/>  
 
-<div align="center">
-  <a href="https://effulgent-squirrel-ca1690.netlify.app">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red" alt="Portfolio">
-  </a>
-</div>
+
 
 <br/>  
 
